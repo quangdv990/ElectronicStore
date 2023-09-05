@@ -1,0 +1,10 @@
+delete Order_Detail
+delete Order_Header
+delete Brand
+delete Source_Online 
+delete Employee 
+delete Store 
+delete City
+delete Customer 
+delete Product
+delete Category 
